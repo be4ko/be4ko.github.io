@@ -1,7 +1,9 @@
 /* this is for the PC vivsion */
 
 @media all and (min-width: 1000px) {
-
+  html {
+    scroll-behavior: smooth;
+  }
 body{
   overflow-x: hidden;
   width: 100%;
